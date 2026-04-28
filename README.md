@@ -4,10 +4,10 @@
 
 I am a junior computer science student at Wayne State University. I design and train ML models, and integrate them into full-stack, user-focused software systems I've engineered. I also enjoy working with ESP32's, from writing the firmware to wiring and soldering the hardware.
 
-### Education
+### 📚Education
 B.S. in Computer Science (Wayne State University, 2027* *anticipated*)
 
-### Work
+### 🔎Work
 I am currently an Operations Strategist for [Orange Sparkle Ball](https://www.orangesparkleball.com) where I have helped with the software development of their platform [Penny Pickup](https://www.pennypickup.com), deployment to AWS, and community engagement at conferences and public events.
 
 I am also currently a Research Assistant for Dr. Zhu's lab at Wayne State University, where we are focusing on AI and adversarial robustness for embodied AI.
