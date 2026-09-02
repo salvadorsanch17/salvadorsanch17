@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a junior computer science student at Wayne State University. I design and train ML models, and integrate them into full-stack, user-focused software systems I've engineered. I also enjoy working with ESP32's, from writing the firmware to wiring and soldering the hardware.
+I am a senior computer science student at Wayne State University. I design and train ML models, and integrate them into full-stack, user-focused software systems I've engineered. I also enjoy working with ESP32's, from writing the firmware to wiring and soldering the hardware.
 
 ### 📚Education
 B.S. in Computer Science (Wayne State University, 2027* *anticipated*)
